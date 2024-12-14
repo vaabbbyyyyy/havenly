@@ -39,4 +39,4 @@ Additional Information
 Ensure that Node.js and npm are installed on your local machine.
 Use Visual Studio Code or any other code editor for development.
 
-PPT LINK:https://1drv.ms/p/s!AnQDcKPAFX0MyzB9dCiDNtqoAqTI
+IDEATHON PPT LINK:https://1drv.ms/p/s!AnQDcKPAFX0MyzB9dCiDNtqoAqTI
