@@ -38,3 +38,5 @@ havenly_frontend: Contains the entire frontend code.
 Additional Information
 Ensure that Node.js and npm are installed on your local machine.
 Use Visual Studio Code or any other code editor for development.
+
+IDEATHON PPT LINK:https://1drv.ms/p/s!AnQDcKPAFX0MyzB9dCiDNtqoAqTI
